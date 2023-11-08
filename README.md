@@ -15,6 +15,5 @@ Si estás buscando a alguien apasionado, comprometido y dispuesto a asumir cualq
 
 
 
-Idiomas y herramientas:
-javascript  Reaccionar HTML5  CSS3  Expresar redux SQL Secuela PostgreSQL Material-UI git  GitHub  Código de estudio visual 
-
+Lenguajes y herramientas:
+JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL Material-UI Git  GitHub  Visual Studio Code 
