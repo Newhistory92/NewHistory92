@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola 👋, soy Emiliano Federico Rojo</h1>
 <h3 align="center">Un Argentino entusiaste de la tecnologia desde muy chico, siempre curioso me incorpore recientemente al mundo del desarrollo web</h3>
-  Acerca de mi 💬:
+     Acerca de mi 💬:
 Soy un desarrollador web Full Stack con una mentalidad proactiva y una pasión inquebrantable por enfrentar nuevos desafíos.
 Lo que me distingue es mi dedicación constante a la capacitación actualizada. En la recta final de mi carrera, dedicó más de 500 horas a completar un programa de formación intensiva, preparándome a conciencia para abordar proyectos web de manera efectiva.
 
@@ -20,8 +20,8 @@ Si estás buscando a alguien apasionado, comprometido y dispuesto a asumir cualq
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emiliano-rojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/emiliano-rojo](https://www.linkedin.com/in/emiliano-rojo/)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@emilianorojo-rq8oj?si=ezdoh_4ninti3ljc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@emilianorojo-rq8oj?si=ezdoh_4ninti3ljc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emiliano-rojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano-rojo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@emilianorojo-rq8oj?si=ezdoh_4ninti3ljc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emilianorojo-rq8oj?si=ezdoh_4ninti3ljc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
